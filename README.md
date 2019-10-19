@@ -1,2 +1,3 @@
-# pyladies.github-intro
-první testovací github projekt
+﻿# pyladies.github-intro
+první testovací github projekt,
+který právě měním napsaáním těchto slov
